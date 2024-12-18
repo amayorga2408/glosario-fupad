@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/glosario-fupad/static/css/main.8aaa092f.css",
-    "main.js": "/glosario-fupad/static/js/main.6de114e8.js",
+    "main.css": "/glosario-fupad/static/css/main.44ffcd95.css",
+    "main.js": "/glosario-fupad/static/js/main.ea38a58e.js",
     "static/js/488.5d0b2b9e.chunk.js": "/glosario-fupad/static/js/488.5d0b2b9e.chunk.js",
     "index.html": "/glosario-fupad/index.html",
-    "main.8aaa092f.css.map": "/glosario-fupad/static/css/main.8aaa092f.css.map",
-    "main.6de114e8.js.map": "/glosario-fupad/static/js/main.6de114e8.js.map",
+    "main.44ffcd95.css.map": "/glosario-fupad/static/css/main.44ffcd95.css.map",
+    "main.ea38a58e.js.map": "/glosario-fupad/static/js/main.ea38a58e.js.map",
     "488.5d0b2b9e.chunk.js.map": "/glosario-fupad/static/js/488.5d0b2b9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8aaa092f.css",
-    "static/js/main.6de114e8.js"
+    "static/css/main.44ffcd95.css",
+    "static/js/main.ea38a58e.js"
   ]
 }
